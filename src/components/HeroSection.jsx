@@ -183,6 +183,7 @@ export default function Hero() {
 
       <footer>
         <p>design is how it works</p>
+        <p>&copy; {new Date().getFullYear()} &nbsp; ieuforu</p>
       </footer>
     </div>
   )
